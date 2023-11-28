@@ -23,7 +23,7 @@ print("{:.2f}".format(distance))
 ```
 
 ### OUTPUT:
-![image](https://raw.githubusercontent.com/sudharsanakumar18/DISTANCE-BETWEEN-TWO-POINTS/main/python%201c.png)
+![image](https://raw.githubusercontent.com/sudharsanakumar18/DISTANCE-BETWEEN-TWO-POINTS/main/python1c.png)
 
 
 ### RESULT:
