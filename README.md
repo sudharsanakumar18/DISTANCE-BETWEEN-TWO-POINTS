@@ -14,12 +14,13 @@ Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 5: 
 Run the program
 ### PROGRAM:
+```
   import math
 l2=[10,6]
 l1=[4,2]
 distance=math.sqrt(((l2[0]-l1[0])**2)+((l2[1]-l1[1])**2))
 print("{:.2f}".format(distance))
-
+```
 
 ### OUTPUT:
 ![image](https://raw.githubusercontent.com/sudharsanakumar18/DISTANCE-BETWEEN-TWO-POINTS/main/python%201c.png)
