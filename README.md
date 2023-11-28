@@ -26,3 +26,4 @@ print("{:.2f}".format(distance))
 
 
 ### RESULT:
+Thus the distance between the two points are successfully executed.
